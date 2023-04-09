@@ -1,0 +1,23 @@
+
+body {
+  background-color: black; 
+  color: antiquewhite;
+}
+
+
+.my-footer {
+    height: 5em;
+    padding: 1em;
+    margin-top: 1.5em;
+    background-color: rgb(3, 29, 68);
+    color: white;
+    font-size: 80%;
+}
+
+.room-image {
+  max-width: 50%;
+}
+
+.notie-container {
+    box-shadow: none;
+  }
